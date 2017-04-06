@@ -109,7 +109,6 @@ if (system.args.length < 3 || system.args.length > 4) {
                     msg: thisMsg[4],
                     outerHTML: thisMsg[5]
                 });
-                alert(thisMsg[0]);
             }
         }
 
